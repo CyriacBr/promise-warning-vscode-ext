@@ -2,6 +2,7 @@
 	"name": "promise-warning",
 	"displayName": "promise-warning",
 	"description": "Warns the usage of an async function without await",
+	"icon": "./icon.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.34.0"
